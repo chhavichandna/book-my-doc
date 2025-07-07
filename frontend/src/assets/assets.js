@@ -33,52 +33,31 @@ import doc14 from './doc14.png'
 import doc15 from './doc15.png'
 import Dermatologist from './dermac.webp'
 import Gastroenterologist from './gas.png'
-import General_physician from './General_physician.webp'
+import General_physician from './General_Physician.webp'
 import Gynecologist from './Gynac.webp'
 import Neurologist from './neuro.png'
 import Pediatricians from './peda.png'
 
 
 export const assets = {
-   Pediatricians,
-    Neurologist,
-    Gynecologist,
-    General_physician,
-    Gastroenterologist,
-    Dermatologist,
-    doc15,
-    doc14,
-    doc13,
-    doc12,
-    doc11,
-    doc10,
-    doc9,
-    doc8,
-    doc7,
-    doc6,
-    doc5,
-    doc4,
-    doc3,
-    doc2,
-    doc1,
-    razorpay_logo,
-    stripe_logo,
-    upload_icon ,
     bannerrr,
-appointment_img,
-header_img,
- group_profiles,
-profile_pic,
-contact_image ,
-about_image,
-logo,
-dropdown_icon ,
- menu_icon,
- cross_icon ,
- chats_icon,
- verified_icon, 
-arrow_icon,
-info_icon ,  
+    appointment_img,
+    header_img,
+    group_profiles,
+    logo,
+    chats_icon,
+    verified_icon,
+    info_icon,
+    profile_pic,
+    arrow_icon,
+    contact_image,
+    about_image,
+    menu_icon,
+    cross_icon,
+    dropdown_icon,
+    upload_icon,
+    stripe_logo,
+    razorpay_logo 
 }
 
 export const specialityData = [
